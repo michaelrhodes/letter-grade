@@ -1,0 +1,27 @@
+{
+  "name": "letter-grade",
+  "version": "0.0.0",
+  "description": "calculate the letter grade for a given percentage",
+  "main": "index.js",
+  "devDependencies": {
+    "tape": "~4.5.1"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:michaelrhodes/letter-grade"
+  },
+  "keywords": [
+    "letter",
+    "grade",
+    "percentage"
+  ],
+  "author": "Michael Rhodes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelrhodes/letter-grade/issues"
+  },
+  "homepage": "https://github.com/michaelrhodes/letter-grade"
+}
