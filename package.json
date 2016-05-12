@@ -1,6 +1,6 @@
 {
   "name": "letter-grade",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "calculate the letter grade for a given percentage",
   "main": "index.js",
   "devDependencies": {
